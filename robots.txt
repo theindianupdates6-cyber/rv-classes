@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theindianupdates6-cyber.github.io/rv-classes/sitemap.xml
